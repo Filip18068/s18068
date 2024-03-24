@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oyqsS9DwUKikfcm5+K/bQSLM726OneVctOIis+66AZ8A5jDBikJr6+4rpPQc5PmLVM+p4EuxcY4+eGTNLzrhw==",
+  "success": true,
+  "projectFilePath": "/home/filip/apbd/zadanie/LegacyAppConsumer/LegacyAppConsumer.csproj",
+  "expectedPackageFiles": [
+    "/home/filip/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
